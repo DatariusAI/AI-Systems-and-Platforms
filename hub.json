@@ -1,0 +1,32 @@
+{
+  "arxiv_query": "(cat:cs.DC OR cat:cs.PF OR cat:cs.AR) AND (abs:\"large language model\" OR abs:\"deep learning\" OR abs:inference OR abs:training)",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "SERVE",
+      "queries": [
+        "llm inference serving",
+        "llm inference engine",
+        "model serving kubernetes"
+      ]
+    },
+    {
+      "key": "MLOPS",
+      "queries": [
+        "mlops platform",
+        "ml pipeline orchestration",
+        "feature store"
+      ]
+    },
+    {
+      "key": "TRAIN",
+      "queries": [
+        "distributed training",
+        "gpu cluster scheduling",
+        "llm training framework"
+      ]
+    }
+  ]
+}
