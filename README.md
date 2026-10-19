@@ -4,7 +4,7 @@ A free, self-updating hub on **how AI runs in production**: training and inferen
 Research and code lists refresh every day from arXiv and GitHub. Curated resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-18 04:35 UTC_
+_Last refreshed: 2026-10-19 04:40 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-15 | [X-RIC: An Agentic RAN-Intelligent Controller Benchmark for Enhancing Reinforcement Learning](https://arxiv.org/abs/2610.22269) | Adhwaa Al-Chaab et al. |
-| 2026-10-15 | [Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs](https://arxiv.org/abs/2610.22230) | Haoyu Zhang et al. |
-| 2026-10-15 | [Efficient KV Cache Migration for Geo-Distributed LLM Inference in Collaborative Edge Computing](https://arxiv.org/abs/2610.22172) | Mingjin Zhang et al. |
-| 2026-10-15 | [ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models](https://arxiv.org/abs/2610.22035) | Mianjie Yu et al. |
-| 2026-10-15 | [Resource-aware Sub-network Allocation for Heterogeneous Decentralized Learning](https://arxiv.org/abs/2610.22015) | Zhuojun Tian et al. |
-| 2026-10-15 | [Local Epochs as Optimal Stopping: Theory and Evidence in Federated Learning](https://arxiv.org/abs/2610.21832) | Ke Xiao et al. |
-| 2026-10-15 | [Compiling Multi-Threshold Operators for Quantized Non-Monotonic and Fine-Granular Activations in Custom-Tailored DNN Accelerators](https://arxiv.org/abs/2610.21825) | Christoph Berganski et al. |
-| 2026-10-15 | [ReFlow: Replay-Driven Decoupling for Efficient RL Post-Training](https://arxiv.org/abs/2610.21640) | Yukun Tian et al. |
+| 2026-10-16 | [Agentic AI for Heterogeneous System Design Across Chip, Scale-Up, and Scale-Out Domains](https://arxiv.org/abs/2610.23724) | Murali Emani et al. |
+| 2026-10-16 | [ConQUESTA: Topology-Aware Post-Training Structural Pruning of Quantum Neural Networks](https://arxiv.org/abs/2610.23415) | Saim Rehman et al. |
+| 2026-10-16 | [Flash RNN-T: Memory-Efficient Joint Network and Transducer Loss Computation](https://arxiv.org/abs/2610.23409) | Mahmoud Ashraf |
+| 2026-10-16 | [Data-Driven Prediction of Optimal MPI Rank Placement and Node Count for Memory-Bound CFD on AMD EPYC Clusters](https://arxiv.org/abs/2610.23383) | Marcin Lawenda et al. |
+| 2026-10-16 | [Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference](https://arxiv.org/abs/2610.23328) | Ivan Fomin et al. |
+| 2026-10-16 | [PairSight: Characterizing and Predicting Operator-Level Interference in GPU Sharing for DNN Inference](https://arxiv.org/abs/2610.23086) | Xiao Liu et al. |
+| 2026-10-16 | [BaGuaLu-2: Taming Dynamic Memory Fluctuation for Efficient MoE Model Training over 10,000 GPUs](https://arxiv.org/abs/2610.23064) | Mingshu Zhai et al. |
+| 2026-10-16 | [TALLOP: Joint Optimization of Local Training and Communication Compression for Time-Constrained Federated Learning](https://arxiv.org/abs/2610.22996) | Honoka Anada et al. |
 <!-- ARXIV:END -->
 
 ## 🧰 Core open-source platforms
@@ -58,12 +58,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- SERVE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 94,020 | 2026-10-18 |
-| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | Python | 37,262 | 2026-10-18 |
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,542 | 2026-10-16 |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 94,094 | 2026-10-19 |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | Python | 37,290 | 2026-10-19 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,546 | 2026-10-16 |
 | [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | High-performance In-browser LLM Inference Engine | TypeScript | 19,279 | 2026-10-11 |
-| [alibaba/MNN](https://github.com/alibaba/MNN) | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. | C++ | 16,233 | 2026-10-16 |
-| [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. | C++ | 6,821 | 2026-10-17 |
+| [alibaba/MNN](https://github.com/alibaba/MNN) | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. | C++ | 16,240 | 2026-10-16 |
+| [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. | C++ | 6,830 | 2026-10-19 |
 <!-- SERVE:END -->
 
 ## 🔁 MLOps platforms and pipelines
@@ -72,11 +72,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- MLOPS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [apache/airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 47,205 | 2026-10-18 |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and  | Python | 28,431 | 2026-10-17 |
-| [dagster-io/dagster](https://github.com/dagster-io/dagster) | An orchestration platform for the development, production, and observation of data assets. | Python | 16,290 | 2026-10-18 |
+| [apache/airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 47,214 | 2026-10-19 |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and  | Python | 28,443 | 2026-10-19 |
+| [dagster-io/dagster](https://github.com/dagster-io/dagster) | An orchestration platform for the development, production, and observation of data assets. | Python | 16,294 | 2026-10-18 |
 | [wandb/wandb](https://github.com/wandb/wandb) | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. | Python | 11,301 | 2026-10-17 |
-| [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) | The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custo | Python | 10,715 | 2026-10-18 |
+| [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) | The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custo | Python | 10,718 | 2026-10-19 |
 | [pycaret/pycaret](https://github.com/pycaret/pycaret) | Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. | Python | 9,854 | 2026-07-23 |
 <!-- MLOPS:END -->
 
@@ -86,12 +86,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- TRAIN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, f | Python | 167,800 | 2026-10-18 |
-| [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | Python | 43,240 | 2026-10-18 |
-| [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) | A high-performance distributed file system designed to address the challenges of AI training and inference workloads. | C++ | 10,286 | 2026-05-07 |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, f | Python | 167,831 | 2026-10-19 |
+| [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | Python | 43,243 | 2026-10-18 |
+| [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) | A high-performance distributed file system designed to address the challenges of AI training and inference workloads. | C++ | 10,289 | 2026-05-07 |
 | [NVIDIA/apex](https://github.com/NVIDIA/apex) | A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch | Python | 9,004 | 2026-10-12 |
-| [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM training framework for RL Scaling. | Python | 8,680 | 2026-10-17 |
-| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions  | Jupyter Notebook | 6,074 | 2026-10-07 |
+| [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM training framework for RL Scaling. | Python | 8,684 | 2026-10-19 |
+| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions  | Jupyter Notebook | 6,088 | 2026-10-07 |
 <!-- TRAIN:END -->
 
 ## 📚 Free learning resources
