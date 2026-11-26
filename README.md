@@ -4,7 +4,7 @@ A free, self-updating hub on **how AI runs in production**: training and inferen
 Research and code lists refresh every day from arXiv and GitHub. Curated resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-25 04:30 UTC_
+_Last refreshed: 2026-11-26 04:30 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-24 | [Scalable Placement for Disaggregated LLM Serving on Heterogeneous Edge Fleets](https://arxiv.org/abs/2611.32881) | Truong-Thanh Le et al. |
-| 2026-11-24 | [OpenWoud: Vendor-Unlocked Scalable Adaptive Random Forest Accelerator](https://arxiv.org/abs/2611.32662) | Ewout van Nimwegen et al. |
-| 2026-11-24 | [ModelLess: A Serverless System for Multi-Tier LLM Inference on Shared GPUs](https://arxiv.org/abs/2611.32634) | Ding Shi et al. |
-| 2026-11-24 | [Breaking Routing And Inter-device Dependencies in Mixture-of-Experts](https://arxiv.org/abs/2611.32572) | John Zarka et al. |
-| 2026-11-24 | [RePrism: Joint Request and Representation Scheduling for LLM Agent Serving](https://arxiv.org/abs/2611.32545) | Xijiang Shen et al. |
-| 2026-11-24 | [Wi-Fi Enabled Edge Intelligence Framework for Smart City Traffic Monitoring using Low-Power IoT Cameras](https://arxiv.org/abs/2611.32517) | Raphael Walcher et al. |
-| 2026-11-24 | [Analysis of Federated Graph Neural Networks for Predicting Nuclear Core Properties](https://arxiv.org/abs/2611.32509) | Oliver Kožul et al. |
-| 2026-11-24 | [CPU-Eval: Evaluating Large Language Models for CPU Hardware Code Generation](https://arxiv.org/abs/2611.32405) | Yuisei Iwata et al. |
+| 2026-11-25 | [Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss](https://arxiv.org/abs/2611.34818) | Thiago de Souza Lamenza et al. |
+| 2026-11-25 | [An Embedded Ergonomic Posture Monitoring and AI-Assisted Home Learning System on a Raspberry Pi 3B Edge Platform](https://arxiv.org/abs/2611.34669) | Truyen T. Le et al. |
+| 2026-11-25 | [A Differential Computing Accelerator for LLM Inference Leveraging Bit-Slice Transition Sparsity](https://arxiv.org/abs/2611.34630) | Yifan Wang et al. |
+| 2026-11-25 | [DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement](https://arxiv.org/abs/2611.34472) | Wenrui Zhou et al. |
+| 2026-11-25 | [CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility](https://arxiv.org/abs/2611.34161) | Boning Huangfu et al. |
+| 2026-11-25 | [Asymmetric Speculative Decoding: Unlocking In-Context Learning in Draft Models](https://arxiv.org/abs/2611.34010) | Guang Huang et al. |
+| 2026-11-25 | [MixMoMo: Accelerating Extra--Large MoE Inference with Mixed--Precision GPU--NPU Execution on Mobile Devices](https://arxiv.org/abs/2611.33981) | Hailong Zou et al. |
+| 2026-11-25 | [Kolpona: An Agentic Framework with Gradient-Free Neuron Programming for RTL Generation](https://arxiv.org/abs/2611.33973) | Musa Tur Farazi et al. |
 <!-- ARXIV:END -->
 
 ## 🧰 Core open-source platforms
@@ -58,12 +58,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- SERVE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 97,516 | 2026-11-25 |
-| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | Python | 39,033 | 2026-11-25 |
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,745 | 2026-11-25 |
-| [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | High-performance In-browser LLM Inference Engine | TypeScript | 19,405 | 2026-11-20 |
-| [alibaba/MNN](https://github.com/alibaba/MNN) | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. | C++ | 16,619 | 2026-11-25 |
-| [xorbitsai/inference](https://github.com/xorbitsai/inference) | Open-source inference platform for language, vision, embedding, reranking, image, audio, and video models. Deploy with multiple engines acro | Python | 9,668 | 2026-11-25 |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 97,581 | 2026-11-26 |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | Python | 39,068 | 2026-11-26 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,751 | 2026-11-25 |
+| [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | High-performance In-browser LLM Inference Engine | TypeScript | 19,408 | 2026-11-20 |
+| [alibaba/MNN](https://github.com/alibaba/MNN) | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. | C++ | 16,623 | 2026-11-25 |
+| [xorbitsai/inference](https://github.com/xorbitsai/inference) | Open-source inference platform for language, vision, embedding, reranking, image, audio, and video models. Deploy with multiple engines acro | Python | 9,672 | 2026-11-25 |
 <!-- SERVE:END -->
 
 ## 🔁 MLOps platforms and pipelines
@@ -72,12 +72,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- MLOPS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [apache/airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 47,658 | 2026-11-25 |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and  | Python | 28,954 | 2026-11-25 |
-| [dagster-io/dagster](https://github.com/dagster-io/dagster) | An orchestration platform for the development, production, and observation of data assets. | Python | 16,470 | 2026-11-24 |
-| [wandb/wandb](https://github.com/wandb/wandb) | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. | Python | 11,333 | 2026-11-25 |
-| [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) | The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custo | Python | 10,881 | 2026-11-25 |
-| [pycaret/pycaret](https://github.com/pycaret/pycaret) | Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. | Python | 9,866 | 2026-07-23 |
+| [apache/airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 47,677 | 2026-11-26 |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and  | Python | 28,972 | 2026-11-26 |
+| [dagster-io/dagster](https://github.com/dagster-io/dagster) | An orchestration platform for the development, production, and observation of data assets. | Python | 16,475 | 2026-11-25 |
+| [wandb/wandb](https://github.com/wandb/wandb) | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. | Python | 11,334 | 2026-11-26 |
+| [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) | The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custo | Python | 10,887 | 2026-11-26 |
+| [pycaret/pycaret](https://github.com/pycaret/pycaret) | Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. | Python | 9,867 | 2026-07-23 |
 <!-- MLOPS:END -->
 
 ## 🏋️ Distributed training and GPU infrastructure
@@ -86,12 +86,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- TRAIN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, f | Python | 169,290 | 2026-11-25 |
-| [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | Python | 43,360 | 2026-11-25 |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, f | Python | 169,340 | 2026-11-26 |
+| [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | Python | 43,362 | 2026-11-26 |
 | [pingcap/talent-plan](https://github.com/pingcap/talent-plan) | open source training courses about distributed database and distributed systems | Rust | 11,055 | 2026-11-02 |
-| [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) | A high-performance distributed file system designed to address the challenges of AI training and inference workloads. | C++ | 10,501 | 2026-11-17 |
+| [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) | A high-performance distributed file system designed to address the challenges of AI training and inference workloads. | C++ | 10,510 | 2026-11-17 |
 | [NVIDIA/apex](https://github.com/NVIDIA/apex) | A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch | Python | 9,015 | 2026-11-23 |
-| [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM training framework for RL Scaling. | Python | 8,868 | 2026-11-05 |
+| [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM training framework for RL Scaling. | Python | 8,874 | 2026-11-05 |
 <!-- TRAIN:END -->
 
 ## 📚 Free learning resources
